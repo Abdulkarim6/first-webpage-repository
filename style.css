@@ -1,18 +1,28 @@
 body{
     margin: 0px;
 }
-.about{
+h1{
+    font-size: 40px;
+}
+h3,p{
+    font-size: 20px;
+}
+section{
     width: 100%;
     display: flex;
-    background-image: url(imageweb/top-banner.png);
+    margin-bottom: 10px;
     background-color: aqua;
+}
+.about{
+    background-image: url(imageweb/top-banner.png);
+    
     background-repeat: no-repeat;
 }
 .half-width{
     width: 50%;
     padding-left: 40px;
 }
-.half-width img{
+.half-width img1{
     width: 80%;
 }
 span{
@@ -24,8 +34,12 @@ span{
     background-color: rgba(16, 198, 243, 0.514);
     padding: 10px 15px;
 }
-#photo1{
-    padding-top: 30px;
+#photo1,#photo2{
+    padding: 30px 0px;
 }
-
+.home-section{
+    background-image: url(imageweb/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
 
