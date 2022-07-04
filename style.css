@@ -22,7 +22,7 @@ section{
     width: 50%;
     padding-left: 40px;
 }
-.half-width img1{
+.half-width img{
     width: 80%;
 }
 span{
@@ -34,7 +34,7 @@ span{
     background-color: rgba(16, 198, 243, 0.514);
     padding: 10px 15px;
 }
-#photo1,#photo2{
+#photo1, #photo2{
     padding: 30px 0px;
 }
 .home-section{
