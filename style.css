@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+}
+.about{
+    width: 100%;
+    display: flex;
+    background-image: url(imageweb/top-banner.png);
+    background-color: aqua;
+    background-repeat: no-repeat;
+}
+.half-width{
+    width: 50%;
+    padding-left: 40px;
+}
+.half-width img{
+    width: 80%;
+}
+span{
+    color: blue;
+}
+.more{
+    text-decoration: none;
+    color: rgba(5, 5, 5, 0.904);
+    background-color: rgba(16, 198, 243, 0.514);
+    padding: 10px 15px;
+}
+#photo1{
+    padding-top: 30px;
+}
+
+
