@@ -70,6 +70,7 @@ span{
 .box-shadow{
     box-shadow: 10px 15px 50px rgb(207, 127, 183);
     border-left: 7px solid red;
+    border-radius: 10px;
 }
 #learn-web{
     border-left: 7px solid rgb(121, 9, 250);
